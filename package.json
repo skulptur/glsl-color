@@ -4,7 +4,7 @@
   "description": "Color manipulation in glsl",
   "author": "Gustavo Spredemann <gspredemann@gmail.com>",
   "license": "MIT",
-  "main": "index.js",
+  "main": "rgb2hsb.glsl",
   "scripts": {},
   "keywords": [
     "glsl",
